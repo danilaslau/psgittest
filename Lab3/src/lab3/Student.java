@@ -40,7 +40,9 @@ public class Student {
     public String getAddress() {
         return address;
     }
-    
+    public String getAddress2() {
+        return address;
+    }
    
     
 }
